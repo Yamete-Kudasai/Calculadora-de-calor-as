@@ -1,15 +1,9 @@
-# Calculadora de calorías
-
-
 Desktop
-
-![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/fcdf081b-fb92-46bf-92a3-bc5afab8c2ff)
-
-![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/eb8bad66-3816-4df8-8edf-4367ae049e50)
+![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/681de950-f34a-4a7f-bd5c-552028c12a13)
+![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/621c9489-5bf0-49ff-9ab2-b859ab7e52c1)
 
 
 Mobile
 
-![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/57def9f1-227b-4dfa-97f7-d1d27629e374)
-
-![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/759486bc-f6ce-4590-a9bd-8c61af171c83)
+![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/0449f9cc-ff3e-47fe-b69d-b3a8acc91da0)
+![image](https://github.com/Yamete-Kudasai/Calculadora-de-calorias/assets/70662445/02dd6238-dc66-484a-aebe-2bc456f7d2da)

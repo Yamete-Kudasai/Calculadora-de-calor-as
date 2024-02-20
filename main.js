@@ -75,7 +75,7 @@ function calcularCalorias() {
     resultado.innerHTML = `
         <h3>${nombre} - ${mensajeEdad}</h3>
         <img src="${imagenEdad}" alt="${mensajeEdad}" style="width:150px; margin: 30px;">
-        <p class="text-center" style="font-size: 20px;">El paciente ${nombre} identificado con ${tipoDocumento} NO.${documento}, requiere un total de <span class="h6" style="font-size: 20px;>${Math.floor(calculoCalorias)} kcal</span> para el sostenimiento de su TBM.</p>
+        <p class="text-center" style="font-size: 20px;">El paciente ${nombre} identificado con ${tipoDocumento} NO.${documento}, requiere un total de <span class="h6" style="font-size: 20px;">${Math.floor(calculoCalorias)} kcal</span> para el sostenimiento de su TBM.</p>
 
     `
 
