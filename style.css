@@ -1,6 +1,4 @@
 body{
-    padding: 0;
-    margin: 0;
     background: linear-gradient(0deg, rgba(34,193,195,1) 21%, rgba(45,84,253,1) 100%);
  
 }
@@ -8,12 +6,12 @@ body{
     height: 100vh;
 }
 .container{
-    height: 100vh;
     background: transparent;
 }
 .container-fluid{
     border: solid 1px black;
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: 40px;
     border-radius: 20px;
     background-color: white;
